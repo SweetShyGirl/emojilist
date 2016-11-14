@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+https://abs.twimg.com/emoji/
+https://assets-cdn.github.com/images/icons/emoji/
+https://abs.twimg.com/hashflags/
+https://www.facebook.com/images/emoji.php/
